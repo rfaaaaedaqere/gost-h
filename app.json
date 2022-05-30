@@ -1,6 +1,6 @@
 { 
-  "name": "Gost",
-  "description": "Deploy Gost to Heroku.",
+  "name": "last Gost",
+  "description": "ra Deploy Gost to Heroku.",
   "keywords": ["Gost"],
   "env": {
     "METHOD": {
